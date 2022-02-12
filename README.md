@@ -1,1 +1,1 @@
-![[object Object]](https://socialify.git.ci/avinashkranjan/Spotify-NextJS/image?description=1&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F55796944%2F144063945-72c8c2b1-79ed-4af8-b01e-ef266fea57c6.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![Spotify-NextJS](https://socialify.git.ci/avinashkranjan/Spotify-NextJS/image?description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
